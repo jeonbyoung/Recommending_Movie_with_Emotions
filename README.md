@@ -1,2 +1,2 @@
-# Recommendation_System_with_Cocktail
+# Recommending_Movie_with_Emotions
 group project on GDGOC
