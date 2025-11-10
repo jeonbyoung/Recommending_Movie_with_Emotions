@@ -1,5 +1,5 @@
 # Recommending_Movie_with_Emotions
-## Group Project on GDGoC
+## Group Project on GDGoC (AIOps)
 
 # #1 주제
 
